@@ -1,5 +1,5 @@
 # Financial_Tracker
-I have created this Financial tracker using **Python** to keep an eye for my expenses on monthly basis.
+I have created this Financial tracker using **Python** to keep an eye on my expenses on a monthly basis.
 
 ![image](https://github.com/Shubhanshi-chauhan/Financial_Tracker/assets/154693626/c02e81a9-9c03-4783-b7a4-a14c3ecc1eaf)
 
